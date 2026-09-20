@@ -1,0 +1,54 @@
+label,value,reference,match
+countries in the index,115,115,True
+Canada's rank on usage index,6,6,True
+Canada usage index,4.46755596236084,4.46755596236084,True
+"Canada usage index, lower bound",4.413148380621703,4.413148380621703,True
+"Canada usage index, upper bound",4.521963544099977,4.521963544099977,True
+Canada sampled conversations,25902.0,25902.0,True
+highest-index country,Singapore,Singapore,True
+"highest-index country, index",6.486933777055775,6.486933777055775,True
+highest-index province,British Columbia,British Columbia,True
+"highest-index province, index",1.3647439442425304,1.3647439442425304,True
+lowest-index province,Saskatchewan,Saskatchewan,True
+"lowest-index province, index",0.36058228983214174,0.36058228983214174,True
+"lowest-index province, lower bound",0.3190810124000262,0.3190810124000262,True
+"lowest-index province, upper bound",0.40208356726425726,0.40208356726425726,True
+province spread (highest / lowest),3.784833539322871,3.784833539322871,True
+Canada work share (%),39.65936739659367,39.65936739659367,True
+rest-of-world work share (%),45.39637649682843,45.39637649682843,True
+work share gap (points),-5.737009100234758,-5.737009100234758,True
+"work share gap, lower (points)",-6.341016833840365,-6.341016833840365,True
+"work share gap, upper (points)",-5.13300136662915,-5.13300136662915,True
+coursework share gap (points),2.361823268169709,2.361823268169709,True
+Canada automation share (%),39.71318476145076,39.71318476145076,True
+rest-of-world automation share (%),45.70105799095027,45.70105799095027,True
+Canada classified success rate (%),72.36892904022855,72.36892904022855,True
+rest-of-world classified success rate (%),69.87387306000012,69.87387306000012,True
+"success gap, lower (points)",1.9429031673877377,1.9429031673877377,True
+"success gap, upper (points)",3.047208793069129,3.047208793069129,True
+most over-indexed request category,"Assist with job applications, career transitions, and interview preparation","Assist with job applications, career transitions, and interview preparation",True
+most under-indexed request category,Provide entertainment recommendations and sports information including schedules and results,Provide entertainment recommendations and sports information including schedules and results,True
+"over-indexed category, index",1.370317917180305,1.370317917180305,True
+"over-indexed category, lower bound",1.295957937922494,1.295957937922494,True
+"over-indexed category, upper bound",1.4489445522865971,1.4489445522865971,True
+"under-indexed category, index",0.4873462414164955,0.4873462414164955,True
+"under-indexed category, lower bound",0.41987187176234175,0.41987187176234175,True
+"under-indexed category, upper bound",0.5656638965260807,0.5656638965260807,True
+finance-lens categories,4,4,True
+finance-lens categories that over-index,1,1,True
+finance-lens categories that under-index,0,0,True
+finance-lens categories that over-index (names),"Provide financial information, tax guidance, and consumer purchase assistance","Provide financial information, tax guidance, and consumer purchase assistance",True
+finance-lens categories that under-index (names),,,True
+"Claude.ai work share, global (%)",45.247783839584194,45.247783839584194,True
+"API work share, global (%)",74.18385691947068,74.18385691947068,True
+"Claude.ai automation share, global (%)",45.54558488308527,45.54558488308527,True
+"API automation share, global (%)",79.74614883922759,79.74614883922759,True
+"Claude.ai classified success rate, global (%)",69.9385,69.9385,True
+"API classified success rate, global (%)",50.54765054765055,50.54765054765055,True
+Business and Financial Operations rank,5.0,5.0,True
+occupation groups,22,22,True
+Business and Financial Operations mean exposure,0.17663448275862068,0.17663448275862068,True
+Business and Financial Operations share with any exposure (%),86.20689655172413,86.20689655172413,True
+most exposed occupation in Business and Financial Operations,Market Research Analysts and Marketing Specialists,Market Research Analysts and Marketing Specialists,True
+its exposure,0.6483,0.6483,True
+highest-exposure occupation group,Computer and Mathematical,Computer and Mathematical,True

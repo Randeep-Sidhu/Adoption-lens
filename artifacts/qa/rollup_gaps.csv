@@ -1,0 +1,4 @@
+parent,subregions,country_count,subregion_sum,gap,territories,territory_sum,unexplained
+FR,20,32332.0,33020.0,688.0,"GF=19, GP=77, MF=19, MQ=103, NC=47, PF=83, RE=340",688.0,0.0
+NL,14,10296.0,10366.0,70.0,"AW=31, CW=39",70.0,0.0
+US,54,222372.0,223004.0,632.0,"GU=26, PR=587, VI=19",632.0,0.0

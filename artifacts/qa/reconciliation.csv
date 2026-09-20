@@ -1,0 +1,7 @@
+metric,rows_sql,rows_reference,cells_compared,mismatches,status
+geo_usage,123,123,984,0,match
+shares,2157,2157,15099,0,match
+vs_rest,1986,1986,19860,0,match
+request_mix,1742,1742,19162,0,match
+platform_gap,4,4,28,0,match
+function_exposure,22,22,176,0,match

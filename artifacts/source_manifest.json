@@ -1,0 +1,16 @@
+{
+  "claude_ai": {
+    "file": "aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv",
+    "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex/resolve/7fc50b03e2bd9fc2a011794a96c2ac69e666fd40/release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv",
+    "bytes": 96018130,
+    "sha256": "9c53320b8732ac2e88fc2c95fbdefa02222f04333a41d4f4e947861409798cf1",
+    "matches_published_sha256": true
+  },
+  "api": {
+    "file": "aei_raw_1p_api_2026-02-05_to_2026-02-12.csv",
+    "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex/resolve/7fc50b03e2bd9fc2a011794a96c2ac69e666fd40/release_2026_03_24/data/aei_raw_1p_api_2026-02-05_to_2026-02-12.csv",
+    "bytes": 43957174,
+    "sha256": "b3bcd68e7f6d820ffbb50a3c53d71ec2a122556fc2a38226cd86951a054bd4c8",
+    "matches_published_sha256": true
+  }
+}

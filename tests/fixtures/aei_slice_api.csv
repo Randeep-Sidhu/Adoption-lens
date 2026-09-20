@@ -1,0 +1,71 @@
+geo_id,geography,date_start,date_end,platform_and_product,facet,level,variable,cluster_name,value
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_count,directive,582182.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_pct,directive,58.218199999999996
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_count,feedback loop,94110.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_pct,feedback loop,9.411
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_count,learning,44286.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_pct,learning,4.4286
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_count,none,151944.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_pct,none,15.1944
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_count,task iteration,92985.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_pct,task iteration,9.2985
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_count,validation,34493.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,collaboration,0,collaboration_pct,validation,3.4493000000000005
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,Analyze software security vulnerabilities and test injection detection,10540.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,Analyze software security vulnerabilities and test injection detection,1.054
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Analyze text content for sentiment, toxicity, and safety moderation",5194.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Analyze text content for sentiment, toxicity, and safety moderation",0.5194
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Assist with IT infrastructure, DevOps, and system administration tasks",55263.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Assist with IT infrastructure, DevOps, and system administration tasks",5.5263
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,Assist with database management and data visualization tasks,14224.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,Assist with database management and data visualization tasks,1.4224
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,Assist with legal practice tasks including contract review and litigation workflows,3261.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,Assist with legal practice tasks including contract review and litigation workflows,0.3261
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Assist with software development, debugging, and code management tasks",155227.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Assist with software development, debugging, and code management tasks",15.5227
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,Automate business operations and develop enterprise software systems,65177.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,Automate business operations and develop enterprise software systems,6.5177
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,Build backend systems for payments and user authentication,15434.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,Build backend systems for payments and user authentication,1.5433999999999999
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,Build cryptocurrency trading bots and blockchain AI applications,20318.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,Build cryptocurrency trading bots and blockchain AI applications,2.0318
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,Create marketing content and AI tools for social media management,26485.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,Create marketing content and AI tools for social media management,2.6485000000000003
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Develop and debug multimedia applications including games, streaming, audio, and voice systems",14387.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Develop and debug multimedia applications including games, streaming, audio, and voice systems",1.4387
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Develop web-based business platforms for subscriptions, e-commerce, and travel booking",14895.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Develop web-based business platforms for subscriptions, e-commerce, and travel booking",1.4895
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Develop, debug, and customize web applications and website features",39227.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Develop, debug, and customize web applications and website features",3.9227
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Develop, deploy, and troubleshoot AI and machine learning systems",147289.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Develop, deploy, and troubleshoot AI and machine learning systems",14.7289
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,Draft and manage business correspondence and technical documentation,18297.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,Draft and manage business correspondence and technical documentation,1.8297
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Extract and structure data from websites, documents, images, and code",95924.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Extract and structure data from websites, documents, images, and code",9.5924
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Provide academic assistance for teaching, grading, research, and clinical documentation",30517.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Provide academic assistance for teaching, grading, research, and clinical documentation",3.0517
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Provide business consulting, corporate research, and data analytics services",25327.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Provide business consulting, corporate research, and data analytics services",2.5326999999999997
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Provide customer support for payments, billing, and retail service",2706.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Provide customer support for payments, billing, and retail service",0.2706
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Provide information on finance, technology shopping, and books",5007.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Provide information on finance, technology shopping, and books",0.5007
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,"Translate, edit, and rewrite text across languages with quality control",20242.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,"Translate, edit, and rewrite text across languages with quality control",2.0242
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_count,not_classified,215059.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,request,2,request_pct,not_classified,21.5059
+GLOBAL,global,2026-02-05,2026-02-12,1P API,task_success,0,task_success_count,no,494523.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,task_success,0,task_success_pct,no,49.4523
+GLOBAL,global,2026-02-05,2026-02-12,1P API,task_success,0,task_success_count,not_classified,1.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,task_success,0,task_success_pct,not_classified,9.999999999999999e-05
+GLOBAL,global,2026-02-05,2026-02-12,1P API,task_success,0,task_success_count,yes,505476.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,task_success,0,task_success_pct,yes,50.5476
+GLOBAL,global,2026-02-05,2026-02-12,1P API,use_case,0,use_case_count,coursework,56659.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,use_case,0,use_case_pct,coursework,5.6659
+GLOBAL,global,2026-02-05,2026-02-12,1P API,use_case,0,use_case_count,none,451.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,use_case,0,use_case_pct,none,0.0451
+GLOBAL,global,2026-02-05,2026-02-12,1P API,use_case,0,use_case_count,personal,201386.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,use_case,0,use_case_pct,personal,20.1386
+GLOBAL,global,2026-02-05,2026-02-12,1P API,use_case,0,use_case_count,work,741504.0
+GLOBAL,global,2026-02-05,2026-02-12,1P API,use_case,0,use_case_pct,work,74.1504

@@ -1,0 +1,266 @@
+geo_id,name,iso3,level
+AD,Andorra,AND,country
+AE,United Arab Emirates,ARE,country
+AF,Afghanistan,AFG,country
+AG,Antigua and Barbuda,ATG,country
+AI,Anguilla,AIA,country
+AL,Albania,ALB,country
+AM,Armenia,ARM,country
+AO,Angola,AGO,country
+AQ,Antarctica,ATA,country
+AR,Argentina,ARG,country
+AS,American Samoa,ASM,country
+AT,Austria,AUT,country
+AU,Australia,AUS,country
+AW,Aruba,ABW,country
+AX,Aland Islands,ALA,country
+AZ,Azerbaijan,AZE,country
+BA,Bosnia and Herzegovina,BIH,country
+BB,Barbados,BRB,country
+BD,Bangladesh,BGD,country
+BE,Belgium,BEL,country
+BF,Burkina Faso,BFA,country
+BG,Bulgaria,BGR,country
+BH,Bahrain,BHR,country
+BI,Burundi,BDI,country
+BJ,Benin,BEN,country
+BL,Saint Barthelemy,BLM,country
+BM,Bermuda,BMU,country
+BN,Brunei,BRN,country
+BO,Bolivia,BOL,country
+BQ,"Bonaire, Saint Eustatius and Saba ",BES,country
+BR,Brazil,BRA,country
+BS,Bahamas,BHS,country
+BT,Bhutan,BTN,country
+BV,Bouvet Island,BVT,country
+BW,Botswana,BWA,country
+BY,Belarus,BLR,country
+BZ,Belize,BLZ,country
+CA,Canada,CAN,country
+CC,Cocos Islands,CCK,country
+CD,Democratic Republic of the Congo,COD,country
+CF,Central African Republic,CAF,country
+CG,Republic of the Congo,COG,country
+CH,Switzerland,CHE,country
+CI,Ivory Coast,CIV,country
+CK,Cook Islands,COK,country
+CL,Chile,CHL,country
+CM,Cameroon,CMR,country
+CN,China,CHN,country
+CO,Colombia,COL,country
+CR,Costa Rica,CRI,country
+CU,Cuba,CUB,country
+CV,Cabo Verde,CPV,country
+CW,Curacao,CUW,country
+CX,Christmas Island,CXR,country
+CY,Cyprus,CYP,country
+CZ,Czechia,CZE,country
+DE,Germany,DEU,country
+DJ,Djibouti,DJI,country
+DK,Denmark,DNK,country
+DM,Dominica,DMA,country
+DO,Dominican Republic,DOM,country
+DZ,Algeria,DZA,country
+EC,Ecuador,ECU,country
+EE,Estonia,EST,country
+EG,Egypt,EGY,country
+EH,Western Sahara,ESH,country
+ER,Eritrea,ERI,country
+ES,Spain,ESP,country
+ET,Ethiopia,ETH,country
+FI,Finland,FIN,country
+FJ,Fiji,FJI,country
+FK,Falkland Islands,FLK,country
+FM,Micronesia,FSM,country
+FO,Faroe Islands,FRO,country
+FR,France,FRA,country
+GA,Gabon,GAB,country
+GB,United Kingdom,GBR,country
+GD,Grenada,GRD,country
+GE,Georgia,GEO,country
+GF,French Guiana,GUF,country
+GG,Guernsey,GGY,country
+GH,Ghana,GHA,country
+GI,Gibraltar,GIB,country
+GL,Greenland,GRL,country
+GM,Gambia,GMB,country
+GN,Guinea,GIN,country
+GP,Guadeloupe,GLP,country
+GQ,Equatorial Guinea,GNQ,country
+GR,Greece,GRC,country
+GS,South Georgia and the South Sandwich Islands,SGS,country
+GT,Guatemala,GTM,country
+GU,Guam,GUM,country
+GW,Guinea-Bissau,GNB,country
+GY,Guyana,GUY,country
+HK,Hong Kong,HKG,country
+HM,Heard Island and McDonald Islands,HMD,country
+HN,Honduras,HND,country
+HR,Croatia,HRV,country
+HT,Haiti,HTI,country
+HU,Hungary,HUN,country
+ID,Indonesia,IDN,country
+IE,Ireland,IRL,country
+IL,Israel,ISR,country
+IM,Isle of Man,IMN,country
+IN,India,IND,country
+IO,British Indian Ocean Territory,IOT,country
+IQ,Iraq,IRQ,country
+IR,Iran,IRN,country
+IS,Iceland,ISL,country
+IT,Italy,ITA,country
+JE,Jersey,JEY,country
+JM,Jamaica,JAM,country
+JO,Jordan,JOR,country
+JP,Japan,JPN,country
+KE,Kenya,KEN,country
+KG,Kyrgyzstan,KGZ,country
+KH,Cambodia,KHM,country
+KI,Kiribati,KIR,country
+KM,Comoros,COM,country
+KN,Saint Kitts and Nevis,KNA,country
+KP,North Korea,PRK,country
+KR,South Korea,KOR,country
+XK,Kosovo,XKX,country
+KW,Kuwait,KWT,country
+KY,Cayman Islands,CYM,country
+KZ,Kazakhstan,KAZ,country
+LA,Laos,LAO,country
+LB,Lebanon,LBN,country
+LC,Saint Lucia,LCA,country
+LI,Liechtenstein,LIE,country
+LK,Sri Lanka,LKA,country
+LR,Liberia,LBR,country
+LS,Lesotho,LSO,country
+LT,Lithuania,LTU,country
+LU,Luxembourg,LUX,country
+LV,Latvia,LVA,country
+LY,Libya,LBY,country
+MA,Morocco,MAR,country
+MC,Monaco,MCO,country
+MD,Moldova,MDA,country
+ME,Montenegro,MNE,country
+MF,Saint Martin,MAF,country
+MG,Madagascar,MDG,country
+MH,Marshall Islands,MHL,country
+MK,North Macedonia,MKD,country
+ML,Mali,MLI,country
+MM,Myanmar,MMR,country
+MN,Mongolia,MNG,country
+MO,Macao,MAC,country
+MP,Northern Mariana Islands,MNP,country
+MQ,Martinique,MTQ,country
+MR,Mauritania,MRT,country
+MS,Montserrat,MSR,country
+MT,Malta,MLT,country
+MU,Mauritius,MUS,country
+MV,Maldives,MDV,country
+MW,Malawi,MWI,country
+MX,Mexico,MEX,country
+MY,Malaysia,MYS,country
+MZ,Mozambique,MOZ,country
+NA,Namibia,NAM,country
+NC,New Caledonia,NCL,country
+NE,Niger,NER,country
+NF,Norfolk Island,NFK,country
+NG,Nigeria,NGA,country
+NI,Nicaragua,NIC,country
+NL,The Netherlands,NLD,country
+NO,Norway,NOR,country
+NP,Nepal,NPL,country
+NR,Nauru,NRU,country
+NU,Niue,NIU,country
+NZ,New Zealand,NZL,country
+OM,Oman,OMN,country
+PA,Panama,PAN,country
+PE,Peru,PER,country
+PF,French Polynesia,PYF,country
+PG,Papua New Guinea,PNG,country
+PH,Philippines,PHL,country
+PK,Pakistan,PAK,country
+PL,Poland,POL,country
+PM,Saint Pierre and Miquelon,SPM,country
+PN,Pitcairn,PCN,country
+PR,Puerto Rico,PRI,country
+PS,Palestinian Territory,PSE,country
+PT,Portugal,PRT,country
+PW,Palau,PLW,country
+PY,Paraguay,PRY,country
+QA,Qatar,QAT,country
+RE,Reunion,REU,country
+RO,Romania,ROU,country
+RS,Serbia,SRB,country
+RU,Russia,RUS,country
+RW,Rwanda,RWA,country
+SA,Saudi Arabia,SAU,country
+SB,Solomon Islands,SLB,country
+SC,Seychelles,SYC,country
+SD,Sudan,SDN,country
+SS,South Sudan,SSD,country
+SE,Sweden,SWE,country
+SG,Singapore,SGP,country
+SH,Saint Helena,SHN,country
+SI,Slovenia,SVN,country
+SJ,Svalbard and Jan Mayen,SJM,country
+SK,Slovakia,SVK,country
+SL,Sierra Leone,SLE,country
+SM,San Marino,SMR,country
+SN,Senegal,SEN,country
+SO,Somalia,SOM,country
+SR,Suriname,SUR,country
+ST,Sao Tome and Principe,STP,country
+SV,El Salvador,SLV,country
+SX,Sint Maarten,SXM,country
+SY,Syria,SYR,country
+SZ,Eswatini,SWZ,country
+TC,Turks and Caicos Islands,TCA,country
+TD,Chad,TCD,country
+TF,French Southern Territories,ATF,country
+TG,Togo,TGO,country
+TH,Thailand,THA,country
+TJ,Tajikistan,TJK,country
+TK,Tokelau,TKL,country
+TL,Timor Leste,TLS,country
+TM,Turkmenistan,TKM,country
+TN,Tunisia,TUN,country
+TO,Tonga,TON,country
+TR,Turkey,TUR,country
+TT,Trinidad and Tobago,TTO,country
+TV,Tuvalu,TUV,country
+TW,Taiwan,TWN,country
+TZ,Tanzania,TZA,country
+UA,Ukraine,UKR,country
+UG,Uganda,UGA,country
+UM,United States Minor Outlying Islands,UMI,country
+US,United States,USA,country
+UY,Uruguay,URY,country
+UZ,Uzbekistan,UZB,country
+VA,Vatican,VAT,country
+VC,Saint Vincent and the Grenadines,VCT,country
+VE,Venezuela,VEN,country
+VG,British Virgin Islands,VGB,country
+VI,U.S. Virgin Islands,VIR,country
+VN,Vietnam,VNM,country
+VU,Vanuatu,VUT,country
+WF,Wallis and Futuna,WLF,country
+WS,Samoa,WSM,country
+YE,Yemen,YEM,country
+YT,Mayotte,MYT,country
+ZA,South Africa,ZAF,country
+ZM,Zambia,ZMB,country
+ZW,Zimbabwe,ZWE,country
+CS,Serbia and Montenegro,SCG,country
+AN,Netherlands Antilles,ANT,country
+CA-NL,Newfoundland and Labrador,,subregion
+CA-PE,Prince Edward Island,,subregion
+CA-NS,Nova Scotia,,subregion
+CA-NB,New Brunswick,,subregion
+CA-QC,Quebec,,subregion
+CA-ON,Ontario,,subregion
+CA-MB,Manitoba,,subregion
+CA-SK,Saskatchewan,,subregion
+CA-AB,Alberta,,subregion
+CA-BC,British Columbia,,subregion
+CA-YT,Yukon,,subregion
+CA-NT,Northwest Territories,,subregion
+CA-NU,Nunavut,,subregion

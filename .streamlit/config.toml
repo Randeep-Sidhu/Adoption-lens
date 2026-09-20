@@ -1,0 +1,23 @@
+[theme]
+base = "light"
+primaryColor = "#A9513A"
+backgroundColor = "#FBF8F3"
+secondaryBackgroundColor = "#F0E7DA"
+textColor = "#2B2420"
+linkColor = "#A9513A"
+font = "sans serif"
+headingFont = "serif"
+baseRadius = "0.5rem"
+borderColor = "#E3D6C6"
+showWidgetBorder = true
+dataframeBorderColor = "#E3D6C6"
+dataframeHeaderBackgroundColor = "#F0E7DA"
+
+[client]
+toolbarMode = "viewer"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

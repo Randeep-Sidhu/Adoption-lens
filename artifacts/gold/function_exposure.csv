@@ -1,0 +1,23 @@
+soc_group,soc_name,occupations,mean_exposure,median_exposure,share_with_exposure,max_exposure,most_exposed_occupation,rank_by_mean
+11,Management,35,0.09744857142857144,0.0644,0.7428571428571429,0.3907,Financial Managers,9
+13,Business and Financial Operations,29,0.17663448275862068,0.1283,0.8620689655172413,0.6483,Market Research Analysts and Marketing Specialists,5
+15,Computer and Mathematical,21,0.378747619047619,0.3404,1.0,0.7451,Computer Programmers,1
+17,Architecture and Engineering,34,0.03807058823529412,0.01415,0.5588235294117647,0.1453,Computer Hardware Engineers,13
+19,"Life, Physical, and Social Science",46,0.1219108695652174,0.06025,0.782608695652174,0.452,Political Scientists,8
+21,Community and Social Service,12,0.051616666666666665,0.0037,0.5,0.153,"Directors, Religious Activities and Education",10
+23,Legal,7,0.2157571428571429,0.2426,1.0,0.3109,"Judges, Magistrate Judges, and Magistrates",3
+25,Educational Instruction and Library,57,0.1292964912280702,0.0989,0.6842105263157895,0.4305,"Mathematical Science Teachers, Postsecondary",7
+27,"Arts, Design, Entertainment, Sports, and Media",34,0.1424147058823529,0.07175000000000001,0.7058823529411765,0.4747,Technical Writers,6
+29,Healthcare Practitioners and Technical,65,0.04108461538461539,0.0,0.38461538461538464,0.6674,Medical Records Specialists,12
+31,Healthcare Support,16,0.04938125,0.0,0.3125,0.6365,Medical Transcriptionists,11
+33,Protective Service,21,0.011876190476190476,0.0,0.19047619047619047,0.1234,Police and Sheriff's Patrol Officers,16
+35,Food Preparation and Serving Related,15,0.009426666666666667,0.0,0.2,0.0734,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",17
+37,Building and Grounds Cleaning and Maintenance,8,0.0247375,0.0,0.375,0.1083,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",14
+39,Personal Care and Service,27,0.01914814814814815,0.0,0.2962962962962963,0.1875,Concierges,15
+41,Sales and Related,20,0.236095,0.26180000000000003,0.85,0.6279,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",2
+43,Office and Administrative Support,50,0.19056599999999999,0.16465,0.8,0.7011,Customer Service Representatives,4
+45,"Farming, Fishing, and Forestry",11,0.0018454545454545453,0.0,0.09090909090909091,0.0203,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",22
+47,Construction and Extraction,56,0.0040375,0.0,0.125,0.0491,Structural Iron and Steel Workers,21
+49,"Installation, Maintenance, and Repair",50,0.00712,0.0,0.14,0.1067,"Computer, Automated Teller, and Office Machine Repairers",19
+51,Production,98,0.007763265306122448,0.0,0.1836734693877551,0.1207,Computer Numerically Controlled Tool Programmers,18
+53,Transportation and Material Moving,44,0.006452272727272728,0.0,0.09090909090909091,0.1169,Passenger Attendants,20

@@ -1,0 +1,21 @@
+layer,check,severity,value,max_allowed,passed,description
+source,both_sources_loaded,error,0.0,0.0,True,Sources missing from the load (expects claude_ai and api)
+source,duplicate_keys,error,0.0,0.0,True,"Key groups (source, geo, facet, level, variable, cluster) that occur more than once"
+source,null_values,error,0.0,0.0,True,"Rows with a missing value, geography, facet or variable"
+source,negative_values,error,0.0,0.0,True,"Rows with a negative value, other than confidence-interval lower bounds"
+source,negative_ci_lower_bounds,info,46.0,inf,True,Confidence-interval lower bounds below zero for quantities that cannot be negative (not used here)
+source,percentages_out_of_range,error,0.0,0.0,True,Percentage rows outside 0-100
+source,period_is_one_week,error,0.0,0.0,True,Sources whose rows do not all cover the same seven-day period
+consistency,shares_sum_to_100,error,0.0,0.0,True,Category groups whose percentages do not add up to 100
+consistency,counts_agree_with_percentages,error,0.0,0.0,True,Category rows where the percentage differs from count / total
+geography,unknown_country_codes,error,0.0,0.0,True,Country codes that are not in the GeoNames country list
+geography,unknown_subregion_parents,error,0.0,0.0,True,Subregion codes whose country prefix is not a known country
+geography,unexplained_rollup_gaps,error,0.0,0.0,True,Countries whose subregion counts exceed or fall short of the country count by more than the overseas territories listed under both
+geography,documented_rollup_gaps,info,3.0,inf,True,Countries whose subregion counts differ from the country count (explained by territories listed twice)
+coverage,countries_missing_from_sample_total,warn,0.010687000000000002,0.02,True,Share of the sampled conversations not accounted for by any country row (small countries are not published)
+coverage,unclassified_geography_share,warn,0.183926,0.25,True,Share of sampled conversations with no usable country (NONE or not_classified)
+coverage,countries_without_population,info,2.0,inf,True,Countries with enough conversations for the index that have no World Bank population figure and are left out
+coverage,small_count_cells,warn,0.09045473378910296,0.15,True,Share of published count cells below 15 conversations (treat small cells with caution)
+reference,finance_lens_clusters_exist,error,0.0,0.0,True,Finance-lens categories that do not exist in the global request taxonomy
+reference,job_exposure_contract,error,0.0,0.0,True,"Occupation rows with a bad code, duplicate code or exposure outside 0-1"
+reference,province_population_adds_up,error,0.0,0.0,True,Difference between the provincial populations and the published Canada total
